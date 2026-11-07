@@ -1,27 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently working on AI models<br>👯 I’m looking to collaborate on GenAI<br>🤝 I’m looking for help with optimizing SLM's <br>🌱 I’m currently learning AI/ML and GenAI<br>💬 Ask me about new technologies <br>⚡ Fun fact
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · omsupe15</sub></p>
+<h1>Om Supe</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_omsupe15_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-supe-69620b387) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lumino_15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omsupe15@gmail.com) 
+<p><a href="https://github.com/omsupe15">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/213462530?v=4" width="180" alt="Om Supe GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+<h2>What teams can evaluate quickly</h2>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · Jupyter Notebook · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>150 contributions · 47 active days</p></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-<!--
-**Omsupe15/Omsupe15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Proof at a glance</h2>
 
-Here are some ideas to get you started:
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>150</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Om Supe GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&repos=omsupe15%2FOptiChat%2Comsupe15%2Fpoke_battle_LFM_encoder%2Comsupe15%2Fgatekeeper%2Comsupe15%2FHSMI_RAG&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&repos=omsupe15%2FOptiChat%2Comsupe15%2Fpoke_battle_LFM_encoder%2Comsupe15%2Fgatekeeper%2Comsupe15%2FHSMI_RAG&v=recruiter-projects-1&mode=dark" width="100%" alt="Om Supe selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Omsupe15/OptiChat">OptiChat</a></h3>
+<p>Smart and Personalized AI chats</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Omsupe15/OptiChat">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Omsupe15/poke_battle_LFM_encoder">poke_battle_LFM_encoder</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Omsupe15/gatekeeper">gatekeeper</a></h3><p>AI Package analyser that protects PyPi and npm packages from supply chain attacks by testing them in isolated Docker Sandbox</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Omsupe15/HSMI_RAG">HSMI_RAG</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Om Supe technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>53% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>33% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=omsupe15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213462530%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Om Supe contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/omsupe15">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Om Supe · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
