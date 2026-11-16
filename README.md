@@ -71,40 +71,6 @@ I enjoy turning ideas into working products and sharing experiments, prototypes,
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-## 📌 Featured Projects
-
-### [OptiChat](https://github.com/Omsupe15/OptiChat)
-Smart and personalized AI chats.
-
-### [gatekeeper](https://github.com/Omsupe15/gatekeeper)
-AI package analyzer that protects PyPI and npm packages from supply-chain threats by testing them in an isolated Docker sandbox.
-
-### [govtSchemes-Chatbot](https://github.com/Omsupe15/govtSchemes-Chatbot)
-A government-schemes chatbot trained to answer questions based on relevant scheme knowledge, with both REST API and CLI support.
-
-### [cognee](https://github.com/Omsupe15/cognee)
-Open-source AI memory platform for agents with persistent long-term memory across sessions using a self-hosted knowledge graph engine.
-
-### [MemEngine](https://github.com/Omsupe15/MemEngine)
-Memory engine experiments focused on useful AI memory architecture.
-
-### [Ticket-System](https://github.com/Omsupe15/Ticket-System)
-Structured customer support ticketing solution for managing customer requests efficiently.
-
-### [SL_Mini_project_Fraud_detection](https://github.com/Omsupe15/SL_Mini_project_Fraud_detection)
-Bank transaction fraud detection model using machine learning.
-
-### [Cyberpunk_street](https://github.com/Omsupe15/Cyberpunk_street)
-3D cyberpunk street website showcase.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Omsupe15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omsupe15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ## 🏆 Current Focus
 
@@ -117,10 +83,4 @@ Bank transaction fraud detection model using machine learning.
 
 - GitHub: https://github.com/Omsupe15
 - Email: omsupe15@gmail.com
-
-## ✨ Closing Note
-
-I build software with curiosity, practical thinking, and a strong interest in AI systems that create real value.
-
-> “Building useful software and sharing the work in public.”
 
