@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · Jupyter Notebook · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>AI and Backend System engineer · Python · Jupyter Notebook · TypeScript</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>150 contributions · 47 active days</p></td>
 </tr>
